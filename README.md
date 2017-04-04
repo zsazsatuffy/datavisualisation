@@ -1,2 +1,2 @@
-# datavisualisation
+# Data Visualisation
 Visualizing Data
